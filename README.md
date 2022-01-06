@@ -3,9 +3,9 @@
   <a href="https://github.com/irmoura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irmoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irmoura&layout=compact&langs_count=10&theme=dark&include_all_commits=true&count_private=true&hide=java,css,scss"/>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irmoura&theme=tokyonight_duo&hide_border=false" alt="andremeiras's readme streaks" />
-</p>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irmoura&theme=tokyonight_duo&hide_border=false" alt="irmoura's readme streaks" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Cplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
