@@ -4,11 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irmoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irmoura&layout=compact&langs_count=10&theme=dark&include_all_commits=true&count_private=true&hide=java,css,scss"/>
 </div>
-<div align="center">
-  <a href="https://github.com/irmoura">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=irmoura&theme=tokyonight_duo&hide_border=false" alt="irmoura's readme streaks" />
-</div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Cplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -19,6 +15,10 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+</div>
+<div align="center"><br>
+  <a href="https://github.com/irmoura">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irmoura&theme=tokyonight_duo&hide_border=false" alt="irmoura's readme streaks" />
 </div>
   
   ##
