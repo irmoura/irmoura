@@ -1,4 +1,4 @@
-## Olá eu sou o Ismael Ribeiro, estudante de engenharia da computação e programador!
+## Olá eu sou o Ismael Ribeiro, estudante de engenharia da computação e programador :)
 <div align="center">
   <a href="https://github.com/irmoura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irmoura&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
